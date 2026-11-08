@@ -1,6 +1,6 @@
 # PerfectCook
  
-This is a version of the main branch of CompleteCook that add more thing's that CC don't have
+This is a version of the main branch of CompleteCook that add more thing's that CC don't have (does not include noise)
 
 ## License
 
