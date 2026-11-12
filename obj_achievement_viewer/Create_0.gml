@@ -1,0 +1,13 @@
+//achievement = ""
+title_override = -4
+desc_override = -4
+index = 0
+//title = "Place my holder" // change in the create code of the object in the room
+//desc = "again" // change in the create code of the object in the room
+secretplus = 3
+alpha = 0
+collision = false
+image_speed = 0
+hidden = false
+depth = obj_player.depth + 1
+sprite_index = sprite
